@@ -1,0 +1,161 @@
+question,expected_title,expected_source,rank_no_rerank,rank_with_rerank
+关于prompt-based、one-shot、exact的论文，其核心贡献是什么？请给出要点并附来源编号。,Prompt-Based One-Shot Exact Length-Controlled Generation with LLMs,data\arxiv\arxiv_2508.13805v1.md,1,1
+围绕prompt-based、one-shot、exact，与以往方法相比的关键差异是什么？请附来源编号。,Prompt-Based One-Shot Exact Length-Controlled Generation with LLMs,data\arxiv\arxiv_2508.13805v1.md,1,1
+关于is-nerf、in-scattering、neural的论文，其核心贡献是什么？请给出要点并附来源编号。,Is-NeRF: In-scattering Neural Radiance Field for Blurred Images,data\arxiv\arxiv_2508.13808v1.md,4,1
+围绕is-nerf、in-scattering、neural，与以往方法相比的关键差异是什么？请附来源编号。,Is-NeRF: In-scattering Neural Radiance Field for Blurred Images,data\arxiv\arxiv_2508.13808v1.md,1,1
+关于illusion、perfect、metric的论文，其核心贡献是什么？请给出要点并附来源编号。,The illusion of a perfect metric: Why evaluating AI's words is harder   than it looks,data\arxiv\arxiv_2508.13816v1.md,,
+围绕illusion、perfect、metric，与以往方法相比的关键差异是什么？请附来源编号。,The illusion of a perfect metric: Why evaluating AI's words is harder   than it looks,data\arxiv\arxiv_2508.13816v1.md,1,1
+关于latent、interpolation、learning的论文，其核心贡献是什么？请给出要点并附来源编号。,Latent Interpolation Learning Using Diffusion Models for Cardiac Volume   Reconstruction,data\arxiv\arxiv_2508.13826v2.md,,
+围绕latent、interpolation、learning，与以往方法相比的关键差异是什么？请附来源编号。,Latent Interpolation Learning Using Diffusion Models for Cardiac Volume   Reconstruction,data\arxiv\arxiv_2508.13826v2.md,1,1
+关于saga、learning、signal-aligned的论文，其核心贡献是什么？请给出要点并附来源编号。,SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image   Generation,data\arxiv\arxiv_2508.13866v1.md,,
+围绕saga、learning、signal-aligned，与以往方法相比的关键差异是什么？请附来源编号。,SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image   Generation,data\arxiv\arxiv_2508.13866v1.md,1,1
+关于improved、generalized、planning的论文，其核心贡献是什么？请给出要点并附来源编号。,Improved Generalized Planning with LLMs through Strategy Refinement and   Reflection,data\arxiv\arxiv_2508.13876v1.md,1,1
+围绕improved、generalized、planning，与以往方法相比的关键差异是什么？请附来源编号。,Improved Generalized Planning with LLMs through Strategy Refinement and   Reflection,data\arxiv\arxiv_2508.13876v1.md,1,1
+关于revisiting、diffusion、q-learning的论文，其核心贡献是什么？请给出要点并附来源编号。,Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step   Action Generation,data\arxiv\arxiv_2508.13904v1.md,2,1
+围绕revisiting、diffusion、q-learning，与以往方法相比的关键差异是什么？请附来源编号。,Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step   Action Generation,data\arxiv\arxiv_2508.13904v1.md,1,1
+关于structured、agentic、workflows的论文，其核心贡献是什么？请给出要点并附来源编号。,Structured Agentic Workflows for Financial Time-Series Modeling with   LLMs and Reflective Feedback,data\arxiv\arxiv_2508.13915v1.md,1,1
+围绕structured、agentic、workflows，与以往方法相比的关键差异是什么？请附来源编号。,Structured Agentic Workflows for Financial Time-Series Modeling with   LLMs and Reflective Feedback,data\arxiv\arxiv_2508.13915v1.md,1,1
+关于inpars、supercharging、synthetic的论文，其核心贡献是什么？请给出要点并附来源编号。,InPars+: Supercharging Synthetic Data Generation for Information   Retrieval Systems,data\arxiv\arxiv_2508.13930v1.md,2,1
+围绕inpars、supercharging、synthetic，与以往方法相比的关键差异是什么？请附来源编号。,InPars+: Supercharging Synthetic Data Generation for Information   Retrieval Systems,data\arxiv\arxiv_2508.13930v1.md,1,1
+关于collaboration、paradox、why的论文，其核心贡献是什么？请给出要点并附来源编号。,The Collaboration Paradox: Why Generative AI Requires Both Strategic   Intelligence and Operational Stability in Supply Chain Management,data\arxiv\arxiv_2508.13942v1.md,2,1
+围绕collaboration、paradox、why，与以往方法相比的关键差异是什么？请附来源编号。,The Collaboration Paradox: Why Generative AI Requires Both Strategic   Intelligence and Operational Stability in Supply Chain Management,data\arxiv\arxiv_2508.13942v1.md,1,1
+关于prompt、orchestration、markup的论文，其核心贡献是什么？请给出要点并附来源编号。,Prompt Orchestration Markup Language,data\arxiv\arxiv_2508.13948v1.md,1,1
+围绕prompt、orchestration、markup，与以往方法相比的关键差异是什么？请附来源编号。,Prompt Orchestration Markup Language,data\arxiv\arxiv_2508.13948v1.md,1,1
+关于learning、how、can的论文，其核心贡献是什么？请给出要点并附来源编号。,Learning to Use AI for Learning: How Can We Effectively Teach and   Measure Prompting Literacy for K-12 Students?,data\arxiv\arxiv_2508.13962v1.md,1,1
+围绕learning、how、can，与以往方法相比的关键差异是什么？请附来源编号。,Learning to Use AI for Learning: How Can We Effectively Teach and   Measure Prompting Literacy for K-12 Students?,data\arxiv\arxiv_2508.13962v1.md,1,1
+关于chronollm、customizing、physics-based的论文，其核心贡献是什么？请给出要点并附来源编号。,ChronoLLM: Customizing Language Models for Physics-Based Simulation Code   Generation,data\arxiv\arxiv_2508.13975v1.md,1,1
+围绕chronollm、customizing、physics-based，与以往方法相比的关键差异是什么？请附来源编号。,ChronoLLM: Customizing Language Models for Physics-Based Simulation Code   Generation,data\arxiv\arxiv_2508.13975v1.md,1,1
+关于chunks、arms、multi-armed的论文，其核心贡献是什么？请给出要点并附来源编号。,Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM   Preference Optimization,data\arxiv\arxiv_2508.13993v1.md,,
+围绕chunks、arms、multi-armed，与以往方法相比的关键差异是什么？请附来源编号。,Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM   Preference Optimization,data\arxiv\arxiv_2508.13993v1.md,,
+关于ask、good、questions的论文，其核心贡献是什么？请给出要点并附来源编号。,Ask Good Questions for Large Language Models,data\arxiv\arxiv_2508.14025v1.md,1,1
+围绕ask、good、questions，与以往方法相比的关键差异是什么？请附来源编号。,Ask Good Questions for Large Language Models,data\arxiv\arxiv_2508.14025v1.md,1,1
+关于unintended、misalignment、agentic的论文，其核心贡献是什么？请给出要点并附来源编号。,Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation,data\arxiv\arxiv_2508.14031v1.md,1,1
+围绕unintended、misalignment、agentic，与以往方法相比的关键差异是什么？请附来源编号。,Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation,data\arxiv\arxiv_2508.14031v1.md,1,1
+关于dpad、efficient、diffusion的论文，其核心贡献是什么？请给出要点并附来源编号。,DPad: Efficient Diffusion Language Models with Suffix Dropout,data\arxiv\arxiv_2508.14148v1.md,3,1
+围绕dpad、efficient、diffusion，与以往方法相比的关键差异是什么？请附来源编号。,DPad: Efficient Diffusion Language Models with Suffix Dropout,data\arxiv\arxiv_2508.14148v1.md,2,1
+关于two、birds、one的论文，其核心贡献是什么？请给出要点并附来源编号。,Two Birds with One Stone: Multi-Task Detection and Attribution of   LLM-Generated Text,data\arxiv\arxiv_2508.14190v1.md,,
+围绕two、birds、one，与以往方法相比的关键差异是什么？请附来源编号。,Two Birds with One Stone: Multi-Task Detection and Attribution of   LLM-Generated Text,data\arxiv\arxiv_2508.14190v1.md,,
+关于highly、aligned、human的论文，其核心贡献是什么？请给出要点并附来源编号。,Large Language Models are Highly Aligned with Human Ratings of Emotional   Stimuli,data\arxiv\arxiv_2508.14214v1.md,1,1
+围绕highly、aligned、human，与以往方法相比的关键差异是什么？请附来源编号。,Large Language Models are Highly Aligned with Human Ratings of Emotional   Stimuli,data\arxiv\arxiv_2508.14214v1.md,1,1
+关于disentangling、concept、semantics的论文，其核心贡献是什么？请给出要点并附来源编号。,Disentangling concept semantics via multilingual averaging in Sparse   Autoencoders,data\arxiv\arxiv_2508.14275v1.md,2,1
+围绕disentangling、concept、semantics，与以往方法相比的关键差异是什么？请附来源编号。,Disentangling concept semantics via multilingual averaging in Sparse   Autoencoders,data\arxiv\arxiv_2508.14275v1.md,1,1
+关于tooth-diffusion、guided、cbct的论文，其核心贡献是什么？请给出要点并附来源编号。,Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth   Conditioning,data\arxiv\arxiv_2508.14276v1.md,1,1
+围绕tooth-diffusion、guided、cbct，与以往方法相比的关键差异是什么？请附来源编号。,Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth   Conditioning,data\arxiv\arxiv_2508.14276v1.md,1,1
+关于amortized、bayesian、meta-learning的论文，其核心贡献是什么？请给出要点并附来源编号。,Amortized Bayesian Meta-Learning for Low-Rank Adaptation of Large   Language Models,data\arxiv\arxiv_2508.14285v1.md,1,1
+围绕amortized、bayesian、meta-learning，与以往方法相比的关键差异是什么？请附来源编号。,Amortized Bayesian Meta-Learning for Low-Rank Adaptation of Large   Language Models,data\arxiv\arxiv_2508.14285v1.md,1,1
+关于explaining、hitori、puzzles的论文，其核心贡献是什么？请给出要点并附来源编号。,Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential   Decisions,data\arxiv\arxiv_2508.14294v1.md,1,1
+围绕explaining、hitori、puzzles，与以往方法相比的关键差异是什么？请附来源编号。,Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential   Decisions,data\arxiv\arxiv_2508.14294v1.md,1,1
+关于glass、test-time、acceleration的论文，其核心贡献是什么？请给出要点并附来源编号。,GLASS: Test-Time Acceleration for LLMs via Global-Local Neural   Importance Aggregation,data\arxiv\arxiv_2508.14302v1.md,,
+围绕glass、test-time、acceleration，与以往方法相比的关键差异是什么？请附来源编号。,GLASS: Test-Time Acceleration for LLMs via Global-Local Neural   Importance Aggregation,data\arxiv\arxiv_2508.14302v1.md,,
+关于your、reward、function的论文，其核心贡献是什么？请给出要点并附来源编号。,Your Reward Function for RL is Your Best PRM for Search: Unifying RL and   Search-Based TTS,data\arxiv\arxiv_2508.14313v1.md,,
+围绕your、reward、function，与以往方法相比的关键差异是什么？请附来源编号。,Your Reward Function for RL is Your Best PRM for Search: Unifying RL and   Search-Based TTS,data\arxiv\arxiv_2508.14313v1.md,3,1
+关于zero-knowledge、llm、hallucination的论文，其核心贡献是什么？请给出要点并附来源编号。,Zero-knowledge LLM hallucination detection and mitigation through   fine-grained cross-model consistency,data\arxiv\arxiv_2508.14314v1.md,,
+围绕zero-knowledge、llm、hallucination，与以往方法相比的关键差异是什么？请附来源编号。,Zero-knowledge LLM hallucination detection and mitigation through   fine-grained cross-model consistency,data\arxiv\arxiv_2508.14314v1.md,5,1
+关于moviedrive、multi-modal、multi-view的论文，其核心贡献是什么？请给出要点并附来源编号。,MoVieDrive: Multi-Modal Multi-View Urban Scene Video Generation,data\arxiv\arxiv_2508.14327v1.md,1,1
+围绕moviedrive、multi-modal、multi-view，与以往方法相比的关键差异是什么？请附来源编号。,MoVieDrive: Multi-Modal Multi-View Urban Scene Video Generation,data\arxiv\arxiv_2508.14327v1.md,1,1
+关于generative、against、poaching的论文，其核心贡献是什么？请给出要点并附来源编号。,Generative AI Against Poaching: Latent Composite Flow Matching for   Wildlife Conservation,data\arxiv\arxiv_2508.14342v1.md,,
+围绕generative、against、poaching，与以往方法相比的关键差异是什么？请附来源编号。,Generative AI Against Poaching: Latent Composite Flow Matching for   Wildlife Conservation,data\arxiv\arxiv_2508.14342v1.md,1,1
+关于non-asymptotic、convergent、analysis的论文，其核心贡献是什么？请给出要点并附来源编号。,A Non-Asymptotic Convergent Analysis for Scored-Based Graph Generative   Model via a System of Stochastic Differential Equations,data\arxiv\arxiv_2508.14351v1.md,1,1
+围绕non-asymptotic、convergent、analysis，与以往方法相比的关键差异是什么？请附来源编号。,A Non-Asymptotic Convergent Analysis for Scored-Based Graph Generative   Model via a System of Stochastic Differential Equations,data\arxiv\arxiv_2508.14351v1.md,1,1
+关于sbgd、improving、graph的论文，其核心贡献是什么？请给出要点并附来源编号。,SBGD: Improving Graph Diffusion Generative Model via Stochastic Block   Diffusion,data\arxiv\arxiv_2508.14352v1.md,1,1
+围绕sbgd、improving、graph，与以往方法相比的关键差异是什么？请附来源编号。,SBGD: Improving Graph Diffusion Generative Model via Stochastic Block   Diffusion,data\arxiv\arxiv_2508.14352v1.md,1,1
+关于organ-agents、virtual、human的论文，其核心贡献是什么？请给出要点并附来源编号。,Organ-Agents: Virtual Human Physiology Simulator via LLMs,data\arxiv\arxiv_2508.14357v1.md,2,1
+围绕organ-agents、virtual、human，与以往方法相比的关键差异是什么？请附来源编号。,Organ-Agents: Virtual Human Physiology Simulator via LLMs,data\arxiv\arxiv_2508.14357v1.md,1,1
+关于physics-constrained、diffusion、reconstruction的论文，其核心贡献是什么？请给出要点并附来源编号。,Physics-Constrained Diffusion Reconstruction with Posterior Correction   for Quantitative and Fast PET Imaging,data\arxiv\arxiv_2508.14364v1.md,1,1
+围绕physics-constrained、diffusion、reconstruction，与以往方法相比的关键差异是什么？请附来源编号。,Physics-Constrained Diffusion Reconstruction with Posterior Correction   for Quantitative and Fast PET Imaging,data\arxiv\arxiv_2508.14364v1.md,1,1
+关于zpd-sca、unveiling、blind的论文，其核心贡献是什么？请给出要点并附来源编号。,ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students'   Cognitive Abilities,data\arxiv\arxiv_2508.14377v1.md,1,1
+围绕zpd-sca、unveiling、blind，与以往方法相比的关键差异是什么？请附来源编号。,ZPD-SCA: Unveiling the Blind Spots of LLMs in Assessing Students'   Cognitive Abilities,data\arxiv\arxiv_2508.14377v1.md,1,1
+关于credence、calibration、game的论文，其核心贡献是什么？请给出要点并附来源编号。,Credence Calibration Game? Calibrating Large Language Models through   Structured Play,data\arxiv\arxiv_2508.14390v1.md,1,1
+围绕credence、calibration、game，与以往方法相比的关键差异是什么？请附来源编号。,Credence Calibration Game? Calibrating Large Language Models through   Structured Play,data\arxiv\arxiv_2508.14390v1.md,1,1
+关于depth、hallucination-free、relation的论文，其核心贡献是什么？请给出要点并附来源编号。,DEPTH: Hallucination-Free Relation Extraction via Dependency-Aware   Sentence Simplification and Two-tiered Hierarchical Refinement,data\arxiv\arxiv_2508.14391v1.md,2,1
+围绕depth、hallucination-free、relation，与以往方法相比的关键差异是什么？请附来源编号。,DEPTH: Hallucination-Free Relation Extraction via Dependency-Aware   Sentence Simplification and Two-tiered Hierarchical Refinement,data\arxiv\arxiv_2508.14391v1.md,1,1
+关于cta-flux、integrating、chinese的论文，其核心贡献是什么？请给出要点并附来源编号。,CTA-Flux: Integrating Chinese Cultural Semantics into High-Quality   English Text-to-Image Communities,data\arxiv\arxiv_2508.14405v1.md,1,1
+围绕cta-flux、integrating、chinese，与以往方法相比的关键差异是什么？请附来源编号。,CTA-Flux: Integrating Chinese Cultural Semantics into High-Quality   English Text-to-Image Communities,data\arxiv\arxiv_2508.14405v1.md,1,1
+关于cognitive、surgery、awakening的论文，其核心贡献是什么？请给出要点并附来源编号。,Cognitive Surgery: The Awakening of Implicit Territorial Awareness in   LLMs,data\arxiv\arxiv_2508.14408v1.md,1,1
+围绕cognitive、surgery、awakening，与以往方法相比的关键差异是什么？请附来源编号。,Cognitive Surgery: The Awakening of Implicit Territorial Awareness in   LLMs,data\arxiv\arxiv_2508.14408v1.md,1,1
+关于automated、optimization、modeling的论文，其核心贡献是什么？请给出要点并附来源编号。,Automated Optimization Modeling through Expert-Guided Large Language   Model Reasoning,data\arxiv\arxiv_2508.14410v1.md,1,1
+围绕automated、optimization、modeling，与以往方法相比的关键差异是什么？请附来源编号。,Automated Optimization Modeling through Expert-Guided Large Language   Model Reasoning,data\arxiv\arxiv_2508.14410v1.md,1,1
+关于real-world、display、inverse的论文，其核心贡献是什么？请给出要点并附来源编号。,A Real-world Display Inverse Rendering Dataset,data\arxiv\arxiv_2508.14411v1.md,1,1
+围绕real-world、display、inverse，与以往方法相比的关键差异是什么？请附来源编号。,A Real-world Display Inverse Rendering Dataset,data\arxiv\arxiv_2508.14411v1.md,1,1
+关于disentanglement、t-space、faster的论文，其核心贡献是什么？请给出要点并附来源编号。,Disentanglement in T-space for Faster and Distributed Training of   Diffusion Models with Fewer Latent-states,data\arxiv\arxiv_2508.14413v1.md,1,1
+围绕disentanglement、t-space、faster，与以往方法相比的关键差异是什么？请附来源编号。,Disentanglement in T-space for Faster and Distributed Training of   Diffusion Models with Fewer Latent-states,data\arxiv\arxiv_2508.14413v1.md,1,1
+关于hyperdiff、hypergraph、guided的论文，其核心贡献是什么？请给出要点并附来源编号。,HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose   Estimation,data\arxiv\arxiv_2508.14431v1.md,,
+围绕hyperdiff、hypergraph、guided，与以往方法相比的关键差异是什么？请附来源编号。,HyperDiff: Hypergraph Guided Diffusion Model for 3D Human Pose   Estimation,data\arxiv\arxiv_2508.14431v1.md,2,1
+关于focus、frequency-optimized、conditioning的论文，其核心贡献是什么？请给出要点并附来源编号。,FOCUS: Frequency-Optimized Conditioning of DiffUSion Models for   mitigating catastrophic forgetting during Test-Time Adaptation,data\arxiv\arxiv_2508.14437v1.md,1,1
+围绕focus、frequency-optimized、conditioning，与以往方法相比的关键差异是什么？请附来源编号。,FOCUS: Frequency-Optimized Conditioning of DiffUSion Models for   mitigating catastrophic forgetting during Test-Time Adaptation,data\arxiv\arxiv_2508.14437v1.md,1,1
+关于muse、multi-subject、unified的论文，其核心贡献是什么？请给出要点并附来源编号。,MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic   Expansion,data\arxiv\arxiv_2508.14440v1.md,1,1
+围绕muse、multi-subject、unified，与以往方法相比的关键差异是什么？请附来源编号。,MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic   Expansion,data\arxiv\arxiv_2508.14440v1.md,1,1
+关于dupo、enabling、reliable的论文，其核心贡献是什么？请给出要点并附来源编号。,DuPO: Enabling Reliable LLM Self-Verification via Dual Preference   Optimization,data\arxiv\arxiv_2508.14460v1.md,,
+围绕dupo、enabling、reliable，与以往方法相比的关键差异是什么？请附来源编号。,DuPO: Enabling Reliable LLM Self-Verification via Dual Preference   Optimization,data\arxiv\arxiv_2508.14460v1.md,1,1
+关于ouroboros、single-step、diffusion的论文，其核心贡献是什么？请给出要点并附来源编号。,Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and   Inverse Rendering,data\arxiv\arxiv_2508.14461v1.md,,
+围绕ouroboros、single-step、diffusion，与以往方法相比的关键差异是什么？请附来源编号。,Ouroboros: Single-step Diffusion Models for Cycle-consistent Forward and   Inverse Rendering,data\arxiv\arxiv_2508.14461v1.md,4,1
+关于in2x、wmt25、translation的论文，其核心贡献是什么？请给出要点并附来源编号。,In2x at WMT25 Translation Task,data\arxiv\arxiv_2508.14472v1.md,1,1
+围绕in2x、wmt25、translation，与以往方法相比的关键差异是什么？请附来源编号。,In2x at WMT25 Translation Task,data\arxiv\arxiv_2508.14472v1.md,1,1
+关于vivid-vr、distilling、concepts的论文，其核心贡献是什么？请给出要点并附来源编号。,Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer   for Photorealistic Video Restoration,data\arxiv\arxiv_2508.14483v1.md,,
+围绕vivid-vr、distilling、concepts，与以往方法相比的关键差异是什么？请附来源编号。,Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer   for Photorealistic Video Restoration,data\arxiv\arxiv_2508.14483v1.md,1,1
+关于semantic、energy、detecting的论文，其核心贡献是什么？请给出要点并附来源编号。,Semantic Energy: Detecting LLM Hallucination Beyond Entropy,data\arxiv\arxiv_2508.14496v1.md,1,1
+围绕semantic、energy、detecting，与以往方法相比的关键差异是什么？请附来源编号。,Semantic Energy: Detecting LLM Hallucination Beyond Entropy,data\arxiv\arxiv_2508.14496v1.md,1,1
+关于saturn、autoregressive、image的论文，其核心贡献是什么？请给出要点并附来源编号。,SATURN: Autoregressive Image Generation Guided by Scene Graphs,data\arxiv\arxiv_2508.14502v1.md,2,1
+围绕saturn、autoregressive、image，与以往方法相比的关键差异是什么？请附来源编号。,SATURN: Autoregressive Image Generation Guided by Scene Graphs,data\arxiv\arxiv_2508.14502v1.md,1,1
+关于wise-fuse、efficient、whole的论文，其核心贡献是什么？请给出要点并附来源编号。,WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch   Selection with VLM and LLM Knowledge Fusion,data\arxiv\arxiv_2508.14537v1.md,,
+围绕wise-fuse、efficient、whole，与以往方法相比的关键差异是什么？请附来源编号。,WISE-FUSE: Efficient Whole Slide Image Encoding via Coarse-to-Fine Patch   Selection with VLM and LLM Knowledge Fusion,data\arxiv\arxiv_2508.14537v1.md,,
+关于post-hoc、llm-supported、debugging的论文，其核心贡献是什么？请给出要点并附来源编号。,Post-hoc LLM-Supported Debugging of Distributed Processes,data\arxiv\arxiv_2508.14540v1.md,1,1
+围绕post-hoc、llm-supported、debugging，与以往方法相比的关键差异是什么？请附来源编号。,Post-hoc LLM-Supported Debugging of Distributed Processes,data\arxiv\arxiv_2508.14540v1.md,1,1
+关于adaptively、robust、llm的论文，其核心贡献是什么？请给出要点并附来源编号。,Adaptively Robust LLM Inference Optimization under Prediction   Uncertainty,data\arxiv\arxiv_2508.14544v1.md,,
+围绕adaptively、robust、llm，与以往方法相比的关键差异是什么？请附来源编号。,Adaptively Robust LLM Inference Optimization under Prediction   Uncertainty,data\arxiv\arxiv_2508.14544v1.md,7,6
+关于llm-generated、explanations、component-based的论文，其核心贡献是什么？请给出要点并附来源编号。,Towards LLM-generated explanations for Component-based Knowledge Graph   Question Answering Systems,data\arxiv\arxiv_2508.14553v1.md,1,1
+围绕llm-generated、explanations、component-based，与以往方法相比的关键差异是什么？请附来源编号。,Towards LLM-generated explanations for Component-based Knowledge Graph   Question Answering Systems,data\arxiv\arxiv_2508.14553v1.md,1,1
+关于gogs、high-fidelity、geometry的论文，其核心贡献是什么？请给出要点并附来源编号。,GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via   Gaussian Surfels,data\arxiv\arxiv_2508.14563v1.md,,
+围绕gogs、high-fidelity、geometry，与以往方法相比的关键差异是什么？请附来源编号。,GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via   Gaussian Surfels,data\arxiv\arxiv_2508.14563v1.md,2,1
+关于who、sees、what的论文，其核心贡献是什么？请给出要点并附来源编号。,Who Sees What? Structured Thought-Action Sequences for Epistemic   Reasoning in LLMs,data\arxiv\arxiv_2508.14564v1.md,,
+围绕who、sees、what，与以往方法相比的关键差异是什么？请附来源编号。,Who Sees What? Structured Thought-Action Sequences for Epistemic   Reasoning in LLMs,data\arxiv\arxiv_2508.14564v1.md,1,1
+关于anchorsync、global、consistency的论文，其核心贡献是什么？请给出要点并附来源编号。,AnchorSync: Global Consistency Optimization for Long Video Editing,data\arxiv\arxiv_2508.14609v1.md,1,1
+围绕anchorsync、global、consistency，与以往方法相比的关键差异是什么？请附来源编号。,AnchorSync: Global Consistency Optimization for Long Video Editing,data\arxiv\arxiv_2508.14609v1.md,1,1
+关于can、llm、agents的论文，其核心贡献是什么？请给出要点并附来源编号。,Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware   Planning and Coordination,data\arxiv\arxiv_2508.14635v1.md,,
+围绕can、llm、agents，与以往方法相比的关键差异是什么？请附来源编号。,Can LLM Agents Solve Collaborative Tasks? A Study on Urgency-Aware   Planning and Coordination,data\arxiv\arxiv_2508.14635v1.md,6,1
+关于entropy-constrained、strategy、optimization的论文，其核心贡献是什么？请给出要点并附来源编号。,Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent   Framework with LLM and Knowledge Graph Integration,data\arxiv\arxiv_2508.14654v1.md,3,1
+围绕entropy-constrained、strategy、optimization，与以往方法相比的关键差异是什么？请附来源编号。,Entropy-Constrained Strategy Optimization in Urban Floods: A Multi-Agent   Framework with LLM and Knowledge Graph Integration,data\arxiv\arxiv_2508.14654v1.md,1,1
+关于virtual、multiplex、staining的论文，其核心贡献是什么？请给出要点并附来源编号。,Virtual Multiplex Staining for Histological Images using a Marker-wise   Conditioned Diffusion Model,data\arxiv\arxiv_2508.14681v1.md,1,1
+围绕virtual、multiplex、staining，与以往方法相比的关键差异是什么？请附来源编号。,Virtual Multiplex Staining for Histological Images using a Marker-wise   Conditioned Diffusion Model,data\arxiv\arxiv_2508.14681v1.md,1,1
+关于mcp-universe、benchmarking、real-world的论文，其核心贡献是什么？请给出要点并附来源编号。,MCP-Universe: Benchmarking Large Language Models with Real-World Model   Context Protocol Servers,data\arxiv\arxiv_2508.14704v1.md,1,1
+围绕mcp-universe、benchmarking、real-world，与以往方法相比的关键差异是什么？请附来源编号。,MCP-Universe: Benchmarking Large Language Models with Real-World Model   Context Protocol Servers,data\arxiv\arxiv_2508.14704v1.md,1,1
+关于shizhengpt、multimodal、llms的论文，其核心贡献是什么？请给出要点并附来源编号。,ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine,data\arxiv\arxiv_2508.14706v1.md,1,1
+围绕shizhengpt、multimodal、llms，与以往方法相比的关键差异是什么？请附来源编号。,ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine,data\arxiv\arxiv_2508.14706v1.md,1,1
+关于gsfix3d、diffusion-guided、repair的论文，其核心贡献是什么？请给出要点并附来源编号。,GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting,data\arxiv\arxiv_2508.14717v1.md,1,1
+围绕gsfix3d、diffusion-guided、repair，与以往方法相比的关键差异是什么？请附来源编号。,GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting,data\arxiv\arxiv_2508.14717v1.md,1,1
+关于transplant、then、regenerate的论文，其核心贡献是什么？请给出要点并附来源编号。,Transplant Then Regenerate: A New Paradigm for Text Data Augmentation,data\arxiv\arxiv_2508.14723v1.md,1,1
+围绕transplant、then、regenerate，与以往方法相比的关键差异是什么？请附来源编号。,Transplant Then Regenerate: A New Paradigm for Text Data Augmentation,data\arxiv\arxiv_2508.14723v1.md,1,1
+关于assessing、quality、security的论文，其核心贡献是什么？请给出要点并附来源编号。,Assessing the Quality and Security of AI-Generated Code: A Quantitative   Analysis,data\arxiv\arxiv_2508.14727v1.md,1,1
+围绕assessing、quality、security，与以往方法相比的关键差异是什么？请附来源编号。,Assessing the Quality and Security of AI-Generated Code: A Quantitative   Analysis,data\arxiv\arxiv_2508.14727v1.md,1,1
+关于evaluating、multilingual、code-switched的论文，其核心贡献是什么？请给出要点并附来源编号。,Evaluating Multilingual and Code-Switched Alignment in LLMs via   Synthetic Natural Language Inference,data\arxiv\arxiv_2508.14735v1.md,1,1
+围绕evaluating、multilingual、code-switched，与以往方法相比的关键差异是什么？请附来源编号。,Evaluating Multilingual and Code-Switched Alignment in LLMs via   Synthetic Natural Language Inference,data\arxiv\arxiv_2508.14735v1.md,1,1
+关于missionhd、data-driven、refinement的论文，其核心贡献是什么？请给出要点并附来源编号。,MissionHD: Data-Driven Refinement of Reasoning Graph Structure through   Hyperdimensional Causal Path Encoding and Decoding,data\arxiv\arxiv_2508.14746v1.md,,
+围绕missionhd、data-driven、refinement，与以往方法相比的关键差异是什么？请附来源编号。,MissionHD: Data-Driven Refinement of Reasoning Graph Structure through   Hyperdimensional Causal Path Encoding and Decoding,data\arxiv\arxiv_2508.14746v1.md,2,1
+关于cross-modality、controlled、molecule的论文，其核心贡献是什么？请给出要点并附来源编号。,Cross-Modality Controlled Molecule Generation with Diffusion Language   Model,data\arxiv\arxiv_2508.14748v1.md,1,1
+围绕cross-modality、controlled、molecule，与以往方法相比的关键差异是什么？请附来源编号。,Cross-Modality Controlled Molecule Generation with Diffusion Language   Model,data\arxiv\arxiv_2508.14748v1.md,1,1
+关于herakles、hierarchical、skill的论文，其核心贡献是什么？请给出要点并附来源编号。,HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents,data\arxiv\arxiv_2508.14751v1.md,1,1
+围绕herakles、hierarchical、skill，与以往方法相比的关键差异是什么？请附来源编号。,HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents,data\arxiv\arxiv_2508.14751v1.md,1,1
+关于reliable、generation、isomorphic的论文，其核心贡献是什么？请给出要点并附来源编号。,Reliable generation of isomorphic physics problems using ChatGPT with   prompt-chaining and tool use,data\arxiv\arxiv_2508.14755v1.md,4,1
+围绕reliable、generation、isomorphic，与以往方法相比的关键差异是什么？请附来源编号。,Reliable generation of isomorphic physics problems using ChatGPT with   prompt-chaining and tool use,data\arxiv\arxiv_2508.14755v1.md,1,1
+关于pepthink-r1、llm、interpretable的论文，其核心贡献是什么？请给出要点并附来源编号。,PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT   SFT and Reinforcement Learning,data\arxiv\arxiv_2508.14765v1.md,,
+围绕pepthink-r1、llm、interpretable，与以往方法相比的关键差异是什么？请附来源编号。,PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT   SFT and Reinforcement Learning,data\arxiv\arxiv_2508.14765v1.md,2,1
+关于transllm、unified、multi-task的论文，其核心贡献是什么？请给出要点并附来源编号。,TransLLM: A Unified Multi-Task Foundation Framework for Urban   Transportation via Learnable Prompting,data\arxiv\arxiv_2508.14782v1.md,,
+围绕transllm、unified、multi-task，与以往方法相比的关键差异是什么？请附来源编号。,TransLLM: A Unified Multi-Task Foundation Framework for Urban   Transportation via Learnable Prompting,data\arxiv\arxiv_2508.14782v1.md,,
+关于privileged、self-access、matters的论文，其核心贡献是什么？请给出要点并附来源编号。,Privileged Self-Access Matters for Introspection in AI,data\arxiv\arxiv_2508.14802v1.md,2,1
+围绕privileged、self-access、matters，与以往方法相比的关键差异是什么？请附来源编号。,Privileged Self-Access Matters for Introspection in AI,data\arxiv\arxiv_2508.14802v1.md,1,1
+关于tinker、diffusion、gift的论文，其核心贡献是什么？请给出要点并附来源编号。,Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From   Sparse Inputs without Per-Scene Optimization,data\arxiv\arxiv_2508.14811v1.md,,
+围绕tinker、diffusion、gift，与以往方法相比的关键差异是什么？请附来源编号。,Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From   Sparse Inputs without Per-Scene Optimization,data\arxiv\arxiv_2508.14811v1.md,,
+关于translight、image-guided、customized的论文，其核心贡献是什么？请给出要点并附来源编号。,TransLight: Image-Guided Customized Lighting Control with Generative   Decoupling,data\arxiv\arxiv_2508.14814v1.md,3,1
+围绕translight、image-guided、customized，与以往方法相比的关键差异是什么？请附来源编号。,TransLight: Image-Guided Customized Lighting Control with Generative   Decoupling,data\arxiv\arxiv_2508.14814v1.md,1,1
+关于evaluating、retrieval-augmented、generation的论文，其核心贡献是什么？请给出要点并附来源编号。,Evaluating Retrieval-Augmented Generation vs. Long-Context Input for   Clinical Reasoning over EHRs,data\arxiv\arxiv_2508.14817v1.md,3,1
+围绕evaluating、retrieval-augmented、generation，与以往方法相比的关键差异是什么？请附来源编号。,Evaluating Retrieval-Augmented Generation vs. Long-Context Input for   Clinical Reasoning over EHRs,data\arxiv\arxiv_2508.14817v1.md,4,1
+关于long、chain-of-thought、reasoning的论文，其核心贡献是什么？请给出要点并附来源编号。,Long Chain-of-Thought Reasoning Across Languages,data\arxiv\arxiv_2508.14828v1.md,1,1
+围绕long、chain-of-thought、reasoning，与以往方法相比的关键差异是什么？请附来源编号。,Long Chain-of-Thought Reasoning Across Languages,data\arxiv\arxiv_2508.14828v1.md,1,1
+关于universal、transferable、adversarial的论文，其核心贡献是什么？请给出要点并附来源编号。,Universal and Transferable Adversarial Attack on Large Language Models   Using Exponentiated Gradient Descent,data\arxiv\arxiv_2508.14853v1.md,2,1
+围绕universal、transferable、adversarial，与以往方法相比的关键差异是什么？请附来源编号。,Universal and Transferable Adversarial Attack on Large Language Models   Using Exponentiated Gradient Descent,data\arxiv\arxiv_2508.14853v1.md,2,1
+关于squeezed、diffusion、typically的论文，其核心贡献是什么？请给出要点并附来源编号。,Squeezed Diffusion Models,data\arxiv\arxiv_2508.14871v1.md,2,1
+围绕squeezed、diffusion、typically，与以往方法相比的关键差异是什么？请附来源编号。,Squeezed Diffusion Models,data\arxiv\arxiv_2508.14871v1.md,1,1
+关于meshcoder、llm-powered、structured的论文，其核心贡献是什么？请给出要点并附来源编号。,MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds,data\arxiv\arxiv_2508.14879v1.md,1,1
+围绕meshcoder、llm-powered、structured，与以往方法相比的关键差异是什么？请附来源编号。,MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds,data\arxiv\arxiv_2508.14879v1.md,1,1
+关于quantization、meets、dllms的论文，其核心贡献是什么？请给出要点并附来源编号。,Quantization Meets dLLMs: A Systematic Study of Post-training   Quantization for Diffusion LLMs,data\arxiv\arxiv_2508.14896v1.md,1,1
+围绕quantization、meets、dllms，与以往方法相比的关键差异是什么？请附来源编号。,Quantization Meets dLLMs: A Systematic Study of Post-training   Quantization for Diffusion LLMs,data\arxiv\arxiv_2508.14896v1.md,1,1

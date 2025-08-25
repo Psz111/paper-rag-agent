@@ -1,0 +1,17 @@
+{
+  "no_rerank": {
+    "Recall@5": 0.8125,
+    "MRR": 0.8725468975468975,
+    "NDCG@10": 0.7462123476069544
+  },
+  "with_rerank": {
+    "Recall@5": 0.81875,
+    "MRR": 0.9936868686868688,
+    "NDCG@10": 0.8209762949194251
+  },
+  "config": {
+    "k": 5,
+    "ndcg_k": 10,
+    "eval_file": "D:\\2.2\\research\\My_Agent\\data\\eval\\eval_set.jsonl"
+  }
+}

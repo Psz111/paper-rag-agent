@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# local config (do not commit real keys)
+app/config_local.py
+
+# data and indexes
+data/chroma_db/
+data/**/*.pdf
+data/**/*.mp4
+
+# frontend build/deps
+frontend/.next/
+frontend/node_modules/
+
+# node root
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+

@@ -1,0 +1,6 @@
+{
+  "entailment_avg": 0.4342866857327924,
+  "contradiction_avg": 0.16432965478471478,
+  "neutral_avg": 0.40138365948249294,
+  "count": 160
+}
